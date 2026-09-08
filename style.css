@@ -1,0 +1,37 @@
+
+
+Aller au contenu
+Utiliser Gmail avec un lecteur d'écran
+5 sur 418
+(aucun objet)
+Boîte de réception
+
+serge deniro <sergedeniro5@gmail.com>
+11:44 (il y a 4 heures)
+À moi
+
+/* Element selector */
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+/* ID selector - Part 4 */
+#main-header {
+    background-color: lightblue;
+    padding: 15px;
+}
+
+/* Class selector - Part 4 */
+.add-expense-section {
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.expenses-section {
+    background-color: lightgray;
+    padding: 15px;
+    margin-top: 20px;
+}
